@@ -250,5 +250,7 @@ int main()
 	cout << "BFS (Breath First Search)" << ENDL;
 	bfs(start, target);
 
+	system("pause");
+
 	return 0;
 }
